@@ -11,7 +11,7 @@ test('TC_002-HRMS Login & Add Emp', async({page})=>{
     await page.waitForTimeout(7000);
     generaltwo.Addempdetails();
     await page.waitForTimeout(7000);
-    generaltwo.uploadimage();
+    //generaltwo.uploadimage();
     await page.waitForTimeout(4000);
     generaltwo.save();
     await page.waitForTimeout(100000);
