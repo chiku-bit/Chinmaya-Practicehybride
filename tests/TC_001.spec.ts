@@ -24,5 +24,5 @@ await page.waitForTimeout(7000);
 generalone.Logout();
 await page.waitForTimeout(7000);
 //generalone.waitstmt();
- console.log('Execution is done');      
+ console.log('Execution is done after error');      
 });
