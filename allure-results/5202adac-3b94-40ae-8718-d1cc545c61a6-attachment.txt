@@ -1,0 +1,5 @@
+Application is open
+Enter password before click
+Application closed sucessfully
+User Name not given!
+Re enter the password after the first attempt

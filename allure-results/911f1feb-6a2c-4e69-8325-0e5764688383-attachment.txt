@@ -1,0 +1,8 @@
+Application is open
+Re enter the password after the first attempt
+Enter password before click
+15485
+Add Employee and store the Employee Code
+File inserted sucessfully
+Clicked on save done
+Application closed sucessfully
