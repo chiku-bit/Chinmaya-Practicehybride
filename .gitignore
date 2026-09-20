@@ -8,3 +8,5 @@ node_modules/
 /playwright/.auth/
 # Ignore environment variables / credentials
 .env
+# Ignore EnvFile with all the Credentials
+EnvFile
